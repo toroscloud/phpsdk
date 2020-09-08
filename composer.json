@@ -11,5 +11,11 @@
             "email": "contato@toros.com.br",
             "homepage": "https://toros.com.br"
         }
-    ]
+    ],
+    "autoload": {
+        "psr-0": {
+            "Toros": "src/"
+        }
+    }
+    
 }
