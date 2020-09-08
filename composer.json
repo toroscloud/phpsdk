@@ -1,0 +1,15 @@
+{
+    "name": "toroscloud/phpsdk",
+    "type": "library",
+    "description": "Integration with toros.com.br",
+    "keywords": ["toros","blockchain","cloud","storage"],
+    "homepage": "https://toros.com.br",
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Marcos Nascimento",
+            "email": "contato@toros.com.br",
+            "homepage": "https://toros.com.br"
+        }
+    ],
+}
